@@ -1,5 +1,5 @@
 <style>
-div {
+div.a {
   background: #666;
   color: #666;
   height: 45px; }
